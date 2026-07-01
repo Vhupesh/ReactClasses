@@ -267,19 +267,18 @@
 // result();
 
 
- let addition = (a, b, c) => {
-    //console.log("This is Higher function");
+//  let addition = (a, b, c) => {
+//     //console.log("This is Higher function");
 
-    let display = () => {
-        return a * b * c;
-    };
+//     let display = () => {
+//         return a * b * c;
+//     };
 
-   return display();
-};
+//    return display();
+// };
 
-console.log(addition(25,25,1));
-//result(10,20,30);
-
-
+// console.log(addition(25,25,1));
+// //result(10,20,30);
 
 
+console.log("Hello Bhupesh");
